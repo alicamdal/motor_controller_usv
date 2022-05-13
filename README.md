@@ -1,5 +1,5 @@
 # Motor Controller Scripts for USV
-This repo contains motor controller scripts of the USV that is mentioned in here. BLDC motors are connected to Arduino Nano board. ESC class for the control can be found under folder called "motorController".
+This repo contains motor controller scripts of the USV that is mentioned [here](https://github.com/alicamdal/yolov5_object_detection). BLDC motors are connected to Arduino Nano board. ESC class for the control can be found under folder called "motorController".
 ## Installing Libraries
 Control device is Xbox One Controller. This gamepad's data can be readable with input library.
 ```
